@@ -7,7 +7,7 @@ import cv2
 from mtcnn.mtcnn import MTCNN
 
 ********* Pantalla Principal *********
-imagenes/registro.png
+https://github.com/c-freed/Login-Reconocimiento-Facial/blob/20bd9832ab4153c0c92681c4fbd2e8ac80b65acf/imagenes/pantalla-principal.png
 
 ********* Pantalla Registro ********
 https://github.com/c-freed/Login-Reconocimiento-Facial/blob/main/imagenes/registro.png
