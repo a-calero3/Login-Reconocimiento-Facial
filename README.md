@@ -5,3 +5,12 @@ Se necesita instalar las siguientes librerias:
 import os
 import cv2
 from mtcnn.mtcnn import MTCNN
+
+********* Pantalla Principal *********
+https://github.com/c-freed/Login-Reconocimiento-Facial/blob/main/imagenes/pantalla-principal.png
+
+********* Pantalla Registro ********
+https://github.com/c-freed/Login-Reconocimiento-Facial/blob/main/imagenes/registro.png
+
+********* Pantalla Login ********
+https://github.com/c-freed/Login-Reconocimiento-Facial/blob/main/imagenes/login.png
