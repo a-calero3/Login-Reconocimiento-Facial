@@ -2,9 +2,11 @@
 Proyecto Final Jocker: Login con Reconocimiento Facial.
 <br> 
 Se necesita instalar las siguientes librerias:<br> 
-import os
-import cv2
-from mtcnn.mtcnn import MTCNN
+-import os
+<br>
+-import cv2
+<br>
+-from mtcnn.mtcnn import MTCNN
 <br><br><br><br> 
 ********* Pantalla Principal *********
 <br><br> 
